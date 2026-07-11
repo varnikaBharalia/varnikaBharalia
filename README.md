@@ -10,7 +10,6 @@
 
 ### 👨‍💻 About Me:
 - 🎓 Currently pursuing *B.Tech at NIT Jamshedpur*  
----- 🚀 Build : *BlogAI* – A centralised platform for students to post, comment and view Blogs of Computer Science  
 - 🌐 Hosting backends, integrating *MongoDB, **Cloudinary,JWT Authentication & Authorization*  
 - 📫 Reach me at: *vbharalia11@gmail.com*  
 - 🧠 Fun Fact: while(alive) { learn(); build(); grow(); }  
