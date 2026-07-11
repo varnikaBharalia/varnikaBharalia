@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center" style="color: #00bfff;">Hi 👋, I'm Varnika Bharalia </h1>
-<h3 align="center" style="color: #f8f8f2;">3rd Year CSE student @ NIT Jamshedpur | Aspiring SDE | Web & AI Developer</h3>
+<h3 align="center" style="color: #f8f8f2;">4th Year CSE student @ NIT Jamshedpur | Aspiring SDE | Web & AI Developer</h3>
 
 
 ---
 
 ### 👨‍💻 About Me:
 - 🎓 Currently pursuing *B.Tech at NIT Jamshedpur*  
-- 🚀 Build : *BlogAI* – A centralised platform for students to post, comment and view Blogs of Computer Science  
+---- 🚀 Build : *BlogAI* – A centralised platform for students to post, comment and view Blogs of Computer Science  
 - 🌐 Hosting backends, integrating *MongoDB, **Cloudinary,JWT Authentication & Authorization*  
 - 📫 Reach me at: *vbharalia11@gmail.com*  
 - 🧠 Fun Fact: while(alive) { learn(); build(); grow(); }  
